@@ -11,3 +11,5 @@ def factorial(n):
 #Do a funny
 for i in range(5):
   do_a_thing()
+
+print(factorial(5))
