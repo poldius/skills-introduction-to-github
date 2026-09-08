@@ -9,4 +9,5 @@ def factorial(n):
   return n*factorial(n-1)
 
 #Do a funny
-do_a_thing()
+for i in range(5):
+  do_a_thing()
