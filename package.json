@@ -1,0 +1,23 @@
+{
+  "name": "skills-introduction-to-github",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poldius/skills-introduction-to-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/poldius/skills-introduction-to-github/issues"
+  },
+  "homepage": "https://github.com/poldius/skills-introduction-to-github#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.0"
+  }
+}
